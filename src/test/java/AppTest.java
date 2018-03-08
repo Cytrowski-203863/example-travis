@@ -13,10 +13,10 @@ public class AppTest {
         Assert.assertEquals(expectedResult, actualResult);
     }
 
-    @Test
-    public void CheckIfTwoPlusTwoIsFive() {
-        int expectedResult = 5;
-        int actualResult = 2 + 2;
-        Assert.assertEquals(expectedResult, actualResult);
-    }
+//    @Test
+//    public void CheckIfTwoPlusTwoIsFive() {
+//        int expectedResult = 5;
+//        int actualResult = 2 + 2;
+//        Assert.assertEquals(expectedResult, actualResult);
+//    }
 }
